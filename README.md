@@ -1,8 +1,8 @@
 # Taller control prediccion datos Lab #2
 
-Gabriel Esteban Velasquez Lasso
-Johan Esteban Matituy Delgado
-Luis Fernando Rojas Fajardo
+#Gabriel Esteban Velasquez Lasso
+#Johan Esteban Matituy Delgado
+#Luis Fernando Rojas Fajardo
 
 
 Objetivos
